@@ -1,7 +1,7 @@
 livekit-agents>=1.0.0rc7
 livekit-plugins-cartesia==1.1.5
-livekit-plugins-deepgram
-livekit-plugins-noise-cancellation==0.2.5
+livekit-plugins-deepgram==1.1.5
+livekit-plugins-noise-cancellation
 livekit-plugins-openai==1.1.5
 livekit-plugins-silero==1.1.5
 mcp
